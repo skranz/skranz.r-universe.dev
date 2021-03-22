@@ -1,0 +1,12 @@
+[
+	{
+		"package": "glueformula",
+		"url": "https://github.com/skranz/glueformula",
+		"branch": "master"
+	},
+	{
+		"package": "restorepoint",
+		"url": "https://github.com/skranz/restorepoint",
+		"branch": "master"
+	}
+]
