@@ -5,8 +5,8 @@
 		"branch": "master"
 	},
 	{
-		"package": "dbmisc",
-		"url": "https://github.com/skranz/dbmisc",
+		"package": "codeUtils",
+		"url": "https://github.com/skranz/codeUtils",
 		"branch": "master"
 	},		
 	{
