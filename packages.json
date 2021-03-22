@@ -1,5 +1,15 @@
 [
 	{
+		"package": "stringtools",
+		"url": "https://github.com/skranz/stringtools",
+		"branch": "master"
+	},
+	{
+		"package": "dbmisc",
+		"url": "https://github.com/skranz/dbmisc",
+		"branch": "master"
+	},		
+	{
 		"package": "glueformula",
 		"url": "https://github.com/skranz/glueformula",
 		"branch": "master"
