@@ -8,10 +8,40 @@
 		"package": "codeUtils",
 		"url": "https://github.com/skranz/codeUtils",
 		"branch": "master"
-	},		
+	},
+	{
+		"package": "dbmisc",
+		"url": "https://github.com/skranz/dbmisc",
+		"branch": "master"
+	},			
 	{
 		"package": "glueformula",
 		"url": "https://github.com/skranz/glueformula",
+		"branch": "master"
+	},
+	{
+		"package": "rmdtools",
+		"url": "https://github.com/skranz/rmdtools",
+		"branch": "master"
+	},
+	{
+		"package": "dplyrExtras",
+		"url": "https://github.com/skranz/dplyrExtras",
+		"branch": "master"
+	},
+	{
+		"package": "RelationalContractsCpp",
+		"url": "https://github.com/skranz/RelationalContractsCpp",
+		"branch": "master"
+	},
+	{
+		"package": "gtree",
+		"url": "https://github.com/skranz/gtree",
+		"branch": "master"
+	},
+	{
+		"package": "shinyEvents",
+		"url": "https://github.com/skranz/shinyEvents",
 		"branch": "master"
 	},
 	{
