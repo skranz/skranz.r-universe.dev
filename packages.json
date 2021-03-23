@@ -1,74 +1,140 @@
-[
-	{
-		"package": "stringtools",
-		"url": "https://github.com/skranz/stringtools",
-		"branch": "master"
-	},
-	{
-		"package": "codeUtils",
-		"url": "https://github.com/skranz/codeUtils",
-		"branch": "master"
-	},
-	{
-		"package": "dbmisc",
-		"url": "https://github.com/skranz/dbmisc",
-		"branch": "master"
-	},			
-	{
-		"package": "glueformula",
-		"url": "https://github.com/skranz/glueformula",
-		"branch": "master"
-	},
-	{
-		"package": "rmdtools",
-		"url": "https://github.com/skranz/rmdtools",
-		"branch": "master"
-	},
-	{
-		"package": "dplyrExtras",
-		"url": "https://github.com/skranz/dplyrExtras",
-		"branch": "master"
-	},
-	{
-		"package": "RelationalContractsCpp",
-		"url": "https://github.com/skranz/RelationalContractsCpp",
-		"branch": "master"
-	},	
-	{
-		"package": "RelationalContracts",
-		"url": "https://github.com/skranz/RelationalContracts",
-		"branch": "master"
-	},
-	{
-		"package": "gtree",
-		"url": "https://github.com/skranz/gtree",
-		"branch": "master"
-	},
-	{
-		"package": "shinyEvents",
-		"url": "https://github.com/skranz/shinyEvents",
-		"branch": "master"
-	},
-	{
-		"package": "restorepoint",
-		"url": "https://github.com/skranz/restorepoint",
-		"branch": "master"
-	},
-	{
-		"package": "RSGSolve",
-		"url": "https://github.com/skranz/RSGSolve",
-		"branch": "master"
-	},
-	{
-		"package": "rgmpl",
-		"url": "https://github.com/skranz/rgmpl",
-		"branch": "master"
-	},
-	{
-		"package": "rowmins",
-		"url": "https://github.com/skranz/rowmins",
-		"branch": "master"
-	}
-	
-	
-]
+[{
+	"package": "bbsvg",
+	"url": "https://github.com/skranz/bbsvg",
+	"branch": "master"
+},
+{
+	"package": "codeUtils",
+	"url": "https://github.com/skranz/codeUtils",
+	"branch": "master"
+},
+{
+	"package": "dbmisc",
+	"url": "https://github.com/skranz/dbmisc",
+	"branch": "master"
+},
+{
+	"package": "ddsim",
+	"url": "https://github.com/skranz/ddsim",
+	"branch": "master"
+},
+{
+	"package": "dplyrExtras",
+	"url": "https://github.com/skranz/dplyrExtras",
+	"branch": "master"
+},
+{
+	"package": "dyngame",
+	"url": "https://github.com/skranz/dyngame",
+	"branch": "master"
+},
+{
+	"package": "glueformula",
+	"url": "https://github.com/skranz/glueformula",
+	"branch": "master"
+},
+{
+	"package": "gtree",
+	"url": "https://github.com/skranz/gtree",
+	"branch": "master"
+},
+{
+	"package": "gtreeWebPlay",
+	"url": "https://github.com/skranz/gtreeWebPlay",
+	"branch": "master"
+},
+{
+	"package": "mlogitExtras",
+	"url": "https://github.com/skranz/mlogitExtras",
+	"branch": "master"
+},
+{
+	"package": "rampl",
+	"url": "https://github.com/skranz/rampl",
+	"branch": "master"
+},
+{
+	"package": "regtools",
+	"url": "https://github.com/skranz/regtools",
+	"branch": "master"
+},
+{
+	"package": "RelationalContracts",
+	"url": "https://github.com/skranz/RelationalContracts",
+	"branch": "master"
+},
+{
+	"package": "RelationalContractsCpp",
+	"url": "https://github.com/skranz/RelationalContractsCpp",
+	"branch": "master"
+},
+{
+	"package": "repgame",
+	"url": "https://github.com/skranz/repgame",
+	"branch": "master"
+},
+{
+	"package": "restorepoint",
+	"url": "https://github.com/skranz/restorepoint",
+	"branch": "master"
+},
+{
+	"package": "rgmpl",
+	"url": "https://github.com/skranz/rgmpl",
+	"branch": "master"
+},
+{
+	"package": "rmdtools",
+	"url": "https://github.com/skranz/rmdtools",
+	"branch": "master"
+},
+{
+	"package": "rowmins",
+	"url": "https://github.com/skranz/rowmins",
+	"branch": "master"
+},
+{
+	"package": "RSGSolve",
+	"url": "https://github.com/skranz/RSGSolve",
+	"branch": "master"
+},
+{
+	"package": "RTutor",
+	"url": "https://github.com/skranz/RTutor",
+	"branch": "master"
+},
+{
+	"package": "RTutorSAGI",
+	"url": "https://github.com/skranz/RTutorSAGI",
+	"branch": "master"
+},
+{
+	"package": "shinyEvents",
+	"url": "https://github.com/skranz/shinyEvents",
+	"branch": "master"
+},
+{
+	"package": "shinyEventsUI",
+	"url": "https://github.com/skranz/shinyEventsUI",
+	"branch": "master"
+},
+{
+	"package": "sktools",
+	"url": "https://github.com/skranz/sktools",
+	"branch": "master"
+},
+{
+	"package": "skUtils",
+	"url": "https://github.com/skranz/skUtils",
+	"branch": "master"
+},
+{
+	"package": "stringtools",
+	"url": "https://github.com/skranz/stringtools",
+	"branch": "master"
+},
+{
+	"package": "symbeqs",
+	"url": "https://github.com/skranz/symbeqs",
+	"branch": "master"
+}]
