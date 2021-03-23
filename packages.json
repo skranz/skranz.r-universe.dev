@@ -33,6 +33,11 @@
 		"package": "RelationalContractsCpp",
 		"url": "https://github.com/skranz/RelationalContractsCpp",
 		"branch": "master"
+	},	
+	{
+		"package": "RelationalContracts",
+		"url": "https://github.com/skranz/RelationalContracts",
+		"branch": "master"
 	},
 	{
 		"package": "gtree",
@@ -48,5 +53,22 @@
 		"package": "restorepoint",
 		"url": "https://github.com/skranz/restorepoint",
 		"branch": "master"
+	},
+	{
+		"package": "RSGSolve",
+		"url": "https://github.com/skranz/RSGSolve",
+		"branch": "master"
+	},
+	{
+		"package": "rgmpl",
+		"url": "https://github.com/skranz/rgmpl",
+		"branch": "master"
+	},
+	{
+		"package": "rowMins",
+		"url": "https://github.com/skranz/rowMins",
+		"branch": "master"
 	}
+	
+	
 ]
