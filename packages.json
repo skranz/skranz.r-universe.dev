@@ -1,9 +1,4 @@
 [{
-	"package": "bbsvg",
-	"url": "https://github.com/skranz/bbsvg",
-	"branch": "master"
-},
-{
 	"package": "codeUtils",
 	"url": "https://github.com/skranz/codeUtils",
 	"branch": "master"
@@ -11,11 +6,6 @@
 {
 	"package": "dbmisc",
 	"url": "https://github.com/skranz/dbmisc",
-	"branch": "master"
-},
-{
-	"package": "ddsim",
-	"url": "https://github.com/skranz/ddsim",
 	"branch": "master"
 },
 {
@@ -131,10 +121,5 @@
 {
 	"package": "stringtools",
 	"url": "https://github.com/skranz/stringtools",
-	"branch": "master"
-},
-{
-	"package": "symbeqs",
-	"url": "https://github.com/skranz/symbeqs",
 	"branch": "master"
 }]
