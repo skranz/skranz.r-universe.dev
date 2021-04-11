@@ -1,4 +1,10 @@
-[{
+[
+{
+	"package": "xglue",
+	"url": "https://github.com/skranz/xglue",
+	"branch": "master"
+},
+{
 	"package": "codeUtils",
 	"url": "https://github.com/skranz/codeUtils",
 	"branch": "master"
