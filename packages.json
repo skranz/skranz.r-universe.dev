@@ -1,5 +1,10 @@
 [
 {
+	"package": "MetaStudies",
+	"url": "https://github.com/skranz/MetaStudies",
+	"branch": "main"
+},		
+{
 	"package": "RoundingMatters",
 	"url": "https://github.com/skranz/RoundingMatters",
 	"branch": "main"
