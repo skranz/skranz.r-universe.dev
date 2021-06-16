@@ -1,5 +1,11 @@
 [
 {
+	"package": "mlogitExtras",
+	"url": "https://github.com/skranz/mlogitExtras",
+	"branch": "master"
+},		
+	
+{
 	"package": "MetaStudies",
 	"url": "https://github.com/skranz/MetaStudies",
 	"branch": "main"
