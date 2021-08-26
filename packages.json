@@ -126,6 +126,11 @@
 	"branch": "master"
 },
 {
+	"package": "shinyEventsLogin",
+	"url": "https://github.com/skranz/shinyEventsLogin",
+	"branch": "master"
+},	
+{
 	"package": "sktools",
 	"url": "https://github.com/skranz/sktools",
 	"branch": "master"
