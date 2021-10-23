@@ -4,7 +4,11 @@
 	"url": "https://github.com/skranz/mlogitExtras",
 	"branch": "master"
 },		
-	
+{
+	"package": "ParallelTrendsPlot",
+	"url": "https://github.com/skranz/ParallelTrendsPlot",
+	"branch": "main"
+},			
 {
 	"package": "MetaStudies",
 	"url": "https://github.com/skranz/MetaStudies",
