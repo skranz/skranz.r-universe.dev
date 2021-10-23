@@ -3,12 +3,23 @@
 	"package": "mlogitExtras",
 	"url": "https://github.com/skranz/mlogitExtras",
 	"branch": "master"
-},		
+},
 {
 	"package": "ParallelTrendsPlot",
 	"url": "https://github.com/skranz/ParallelTrendsPlot",
 	"branch": "main"
-},			
+},
+{
+	"package": "shinyEventsPushMessage",
+	"url": "https://github.com/skranz/shinyEventsPushMessage",
+	"branch": "master"
+},
+{
+	"package": "shinyChatQuiz",
+	"url": "https://github.com/skranz/shinyChatQuiz",
+	"branch": "master"
+},
+
 {
 	"package": "MetaStudies",
 	"url": "https://github.com/skranz/MetaStudies",
