@@ -5,6 +5,11 @@
 	"branch": "master"
 },
 {
+	"package": "distRforest",
+	"url": "https://github.com/skranz/distRforest",
+	"branch": "master"
+},
+{
 	"package": "ParallelTrendsPlot",
 	"url": "https://github.com/skranz/ParallelTrendsPlot",
 	"branch": "main"
