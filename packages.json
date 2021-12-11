@@ -5,6 +5,11 @@
 	"branch": "master"
 },
 {
+	"package": "synthdid",
+	"url": "https://github.com/skranz/synthdid",
+	"branch": "master"
+},
+{
 	"package": "distRforest",
 	"url": "https://github.com/skranz/distRforest",
 	"branch": "master"
