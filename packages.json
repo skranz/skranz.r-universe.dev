@@ -10,6 +10,11 @@
 	"branch": "master"
 },
 {
+	"package": "xsynthdid",
+	"url": "https://github.com/skranz/xsynthdid",
+	"branch": "main"
+},	
+{
 	"package": "distRforest",
 	"url": "https://github.com/skranz/distRforest",
 	"branch": "master"
