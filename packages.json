@@ -10,6 +10,11 @@
 	"branch": "master"
 },
 {
+	"package": "umlaute",
+	"url": "https://github.com/skranz/umlaute",
+	"branch": "main"
+},		
+{
 	"package": "xsynthdid",
 	"url": "https://github.com/skranz/xsynthdid",
 	"branch": "main"
