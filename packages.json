@@ -1,5 +1,10 @@
 [
 {
+	"package": "RStudioStataConsole",
+	"url": "https://github.com/skranz/RStudioStataConsole",
+	"branch": "main"
+},		
+{
 	"package": "mlogitExtras",
 	"url": "https://github.com/skranz/mlogitExtras",
 	"branch": "master"
