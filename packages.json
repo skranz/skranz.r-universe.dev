@@ -1,5 +1,10 @@
 [
 {
+	"package": "dyplot",
+	"url": "https://github.com/skranz/dyplot",
+	"branch": "main"
+},
+{
 	"package": "RStudioStataConsole",
 	"url": "https://github.com/skranz/RStudioStataConsole",
 	"branch": "main"
