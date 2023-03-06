@@ -1,5 +1,15 @@
 [
 {
+	"package": "gpt4r",
+	"url": "https://github.com/skranz/gpt4r",
+	"branch": "main"
+},
+{
+	"package": "mygpt",
+	"url": "https://github.com/skranz/mygpt",
+	"branch": "main"
+},	
+{
 	"package": "phack",
 	"url": "https://github.com/skranz/phack",
 	"branch": "main"
