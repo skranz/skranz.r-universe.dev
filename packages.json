@@ -1,5 +1,10 @@
 [
 {
+	"package": "EnergyChartsAPI",
+	"url": "https://github.com/skranz/EnergyChartsAPI",
+	"branch": "main"
+},	
+{
 	"package": "gpt4r",
 	"url": "https://github.com/skranz/gpt4r",
 	"branch": "main"
