@@ -3,6 +3,11 @@
 	"package": "EnergyChartsAPI",
 	"url": "https://github.com/skranz/EnergyChartsAPI",
 	"branch": "main"
+},
+{
+	"package": "rgemini",
+	"url": "https://github.com/skranz/rgemini",
+	"branch": "main"
 },	
 {
 	"package": "gpt4r",
