@@ -5,6 +5,11 @@
 	"branch": "main"
 },
 {
+	"package": "rmistral",
+	"url": "https://github.com/skranz/rmistral",
+	"branch": "main"
+},	
+{
 	"package": "rgemini",
 	"url": "https://github.com/skranz/rgemini",
 	"branch": "main"
