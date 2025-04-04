@@ -5,6 +5,21 @@
 	"branch": "main"
 },
 {
+	"package": "DataSchema",
+	"url": "https://github.com/skranz/DataSchema",
+	"branch": "main"
+},	
+{
+	"package": "FuzzyProduction",
+	"url": "https://github.com/skranz/FuzzyProduction",
+	"branch": "main"
+},
+{
+	"package": "aikit",
+	"url": "https://github.com/skranz/aikit",
+	"branch": "main"
+},	
+{
 	"package": "rmistral",
 	"url": "https://github.com/skranz/rmistral",
 	"branch": "main"
