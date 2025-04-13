@@ -211,6 +211,11 @@
 	"branch": "master"
 },
 {
+	"package": "shinyEventsCookies",
+	"url": "https://github.com/skranz/shinyEventsCookies",
+	"branch": "main"
+},	
+{
 	"package": "shinyEventsUI",
 	"url": "https://github.com/skranz/shinyEventsUI",
 	"branch": "master"
