@@ -5,6 +5,11 @@
 	"branch": "main"
 },
 {
+	"package": "files2prompt",
+	"url": "https://github.com/skranz/files2prompt",
+	"branch": "main"
+},	
+{
 	"package": "DataSchema",
 	"url": "https://github.com/skranz/DataSchema",
 	"branch": "main"
