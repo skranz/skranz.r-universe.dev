@@ -10,6 +10,12 @@
 	"branch": "main"
 },	
 {
+	"package": "pladj",
+	"url": "https://github.com/skranz/pladj",
+	"branch": "main"
+},	
+	
+{
 	"package": "DataSchema",
 	"url": "https://github.com/skranz/DataSchema",
 	"branch": "main"
