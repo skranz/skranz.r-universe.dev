@@ -71,23 +71,11 @@
 
 
 {
-  "package": "repboxArt",
-  "url": "https://github.com/repboxr/repboxArt",
-  "branch": "main"
-},
-
-{
   "package": "repboxCodeText",
   "url": "https://github.com/repboxr/repboxCodeText",
   "branch": "main"
 },
 
-
-{
-  "package": "repboxDeploy",
-  "url": "https://github.com/repboxr/repboxDeploy",
-  "branch": "main"
-},
 
 {
   "package": "repboxEvaluate",
@@ -106,19 +94,6 @@
   "url": "https://github.com/repboxr/repboxHtml",
   "branch": "main"
 },
-
-{
-  "package": "repboxMap",
-  "url": "https://github.com/repboxr/repboxMap",
-  "branch": "main"
-},
-
-{
-  "package": "repboxR",
-  "url": "https://github.com/repboxr/repboxR",
-  "branch": "main"
-},
-
 {
   "package": "repboxReg",
   "url": "https://github.com/repboxr/repboxReg",
