@@ -5,6 +5,17 @@
 	"branch": "main"
 },
 {
+	"package": "stata2r",
+	"url": "https://github.com/skranz/stata2r",
+	"branch": "main"
+},
+{
+	"package": "regtranslate",
+	"url": "https://github.com/skranz/regtranslate",
+	"branch": "main"
+},
+	
+{
 	"package": "files2prompt",
 	"url": "https://github.com/skranz/files2prompt",
 	"branch": "main"
