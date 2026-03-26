@@ -4,6 +4,7 @@
 	"url": "https://github.com/skranz/EnergyChartsAPI",
 	"branch": "main"
 },
+	
 {
 	"package": "stata2r",
 	"url": "https://github.com/skranz/stata2r",
@@ -14,7 +15,10 @@
 	"url": "https://github.com/skranz/regtranslate",
 	"branch": "main"
 },
-	
+{
+    "package": "repboxUtils",
+    "url": "https://github.com/repboxr/repboxUtils"
+},	
 {
 	"package": "files2prompt",
 	"url": "https://github.com/skranz/files2prompt",
