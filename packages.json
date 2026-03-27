@@ -5,6 +5,11 @@
   "url": "https://github.com/repboxr/metaregBase",
   "branch": "main"
 },
+{
+  "package": "repboxRegmap",
+  "url": "https://github.com/repboxr/repboxRegmap",
+  "branch": "main"
+},
 
 {
   "package": "repboxDRF",
